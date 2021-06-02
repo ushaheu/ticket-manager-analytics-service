@@ -23,7 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
-		<org.apache.spark-version>2.2.0</org.apache.spark-version>
+		<org.apache.spark-version>2.2.2</org.apache.spark-version>
 	</properties>
 
 	<dependencies>
